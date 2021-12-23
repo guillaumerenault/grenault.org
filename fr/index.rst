@@ -8,14 +8,13 @@
    :target: /en/
 
 | 
-| 
 
 About
 =====
 
 Welcome to my personal website.
 
-I'm a software engineer who enjoys working on problems related to computer networking, cloud computing, security and privacy. To get in touch with me (suggestions/edits on blog entries or for business inquiries), email me at :email:`gr@grenault.org`.
+I'm a software engineer who enjoys working on problems related to computer networking, cloud computing, security and privacy. To get in touch with me (comments on blog entries or for business inquiries), email me at :email:`gr@grenault.org`.
 
 The website is avaible both in |english|  `English </en/>`_ and |français| `Français </fr/>`_, click on the flag icons at the top left corner on any page to switch languages.
 

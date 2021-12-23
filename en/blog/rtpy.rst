@@ -8,7 +8,6 @@
    :target: /fr/blog/rtpy/
 
 | 
-| 
 
 A Python wrapper for the JFrog Artifactory REST API
 ===================================================

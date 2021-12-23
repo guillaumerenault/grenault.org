@@ -8,7 +8,6 @@
    :target: /fr/blog/
 
 | 
-| 
 
 Blog
 ====
