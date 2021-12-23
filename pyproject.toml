@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "grenault.org"
+version = "0.1.0"
+description = "My personal website"
+authors = ["Guillaume Renault <gr@grenault.org>"]
+readme = 'README.md'
+homepage = "https://github.com/guillaumerenault/grenault.org"
+
+[tool.poetry.dependencies]
+python = "~3.8"
+Sphinx="~4.3"
+furo="~2021.11.23"
+sphinx-autobuild="~2021.3.14"
+sphinx-inline-tabs="~2021.8.17b10"
+sphinx-copybutton="~0.4"
+sphinxcontrib-email="~0.3.5"
+
+[tool.poetry.dev-dependencies]
