@@ -7,12 +7,10 @@
    :align: right
    :target: /en/
 
-| 
-
 About
 =====
 
-Welcome to my personal website.
+Bienvenue sur mon site web personnel.
 
 I'm a software engineer who enjoys working on problems related to computer networking, cloud computing, security and privacy. To get in touch with me (comments on blog entries or for business inquiries), email me at :email:`gr@grenault.org`.
 

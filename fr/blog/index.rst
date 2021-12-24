@@ -7,8 +7,6 @@
    :align: right
    :target: /en/blog/
 
-| 
-
 Blog
 ====
 
